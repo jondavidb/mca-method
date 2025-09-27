@@ -44,25 +44,11 @@ MCA-Method/
 │   ├── intermediate.md
 │   └── advanced.md
 │
-├── react-framework/                   # React development
-│   ├── beginner.md
-│   ├── intermediate.md
-│   └── advanced.md
-│
-├── nodejs-framework/                  # Node.js backend development
-│   ├── beginner.md
-│   ├── intermediate.md
-│   └── advanced.md
-│
-├── golang/                           # Go programming language
-│   ├── beginner.md
-│   ├── intermediate.md
-│   └── advanced.md
-│
 └── [additional-topics]/              # More topics to be added
     ├── beginner.md
     ├── intermediate.md
-    └── advanced.md
+    ├── advanced.md
+    └── principal.md
 ```
 
 ---
