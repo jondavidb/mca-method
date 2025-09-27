@@ -174,7 +174,7 @@ This project is released under an Educational and Research License.
 - ❗ **Attribution required** - Must credit Professor Pablo De Chiaro Rosa
 - ❗ Commercial use requires explicit permission
 
-See the [LICENSE](https://claude.ai/chat/LICENSE) file for complete terms.
+See the LICENSE file for complete terms.
 
 ---
 
